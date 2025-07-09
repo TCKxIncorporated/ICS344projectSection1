@@ -18,7 +18,6 @@ Each phase folder contains:
 - **Group Members**:
   - HUSSAIN ALNASSER — ID: [202172010]
   - NAIF ALQAHTANI — ID: [202172110]
-  - ALI AL SHAIKH AHMED — ID: [202179050]
 
 ---
 
